@@ -5,6 +5,7 @@
 - 📫 Please reach me through:
       Email: augustojonathanlauw@gmail.com
       Linkedin: https://www.linkedin.com/in/augusto-jonathan-173324230/
+- Kindly check my repository to see some project that I've been made.
       
 Thank you!
 
